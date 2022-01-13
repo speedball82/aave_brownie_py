@@ -2,5 +2,3 @@
 2. Borrow some asset with ETH collateral
 3. 
 # aave_brownie_py
-Ciao
-# aave_brownie_py
